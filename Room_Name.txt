@@ -1,0 +1,20 @@
+dormitory
+kitchen
+storage
+guardroom
+treasure room
+workshop
+tomb
+prison
+torture room
+armory
+canteen
+sauna
+chapel
+library
+training room
+distillery
+mine shaft
+forge
+invocation room
+laboratory
